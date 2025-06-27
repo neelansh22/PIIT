@@ -88,11 +88,6 @@ print(processed_data)
 
 ---
 
-## License
-
-MIT License
----
-
 ## Contact
 
 For questions or suggestions, please open an issue or contact the maintainer.
