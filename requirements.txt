@@ -1,0 +1,15 @@
+spacy
+pycountry
+pandas
+numpy
+langdetect
+en_core_web_lg
+fr_core_news_lg
+de_core_news_lg
+it_core_news_lg
+ja_core_news_sm
+ca_core_news_sm
+nl_core_news_sm
+pt_core_news_sm
+ro_core_news_sm
+es_core_news_sm
