@@ -1,6 +1,6 @@
-# PIIT - pii-identification-tool
+# PIIT - Personal Information Identification Tool. 
 
-**pii-identification** is an offline Python tool for detecting and redacting sensitive Personally Identifiable Information (PII) in text. It is designed for use in any data project. Quite useful for a first iteration to be used as a layer on top of sensitive data that must remain within an org's internal data ecosystem.
+**PIIT** is an offline Python tool for detecting and redacting sensitive Personally Identifiable Information (PII) in text. It is designed for use in any data project. Quite useful for a first iteration to be used as a layer on top of sensitive data that must remain within an org's internal data ecosystem.
 ---
 
 ## Features
