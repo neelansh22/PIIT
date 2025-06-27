@@ -8,7 +8,7 @@
 - **Detects PII:** Finds names, locations, emails, phone numbers, and addresses in text.
 - **Multi-language Support:** Uses spaCy language models for English, French, German, Italian, Dutch, Portuguese, Romanian, Spanish, Catalan, and Japanese.
 - **Flexible & Modular:** Each detection method is modular, so you can use only what you need.
-- **Offline Processing:** No data leaves your environment.
+- **Offline Processing in SDK style:** No data leaves your environment. The utility is designed as an SDK, easily extendable and modular.
 - **Redaction:** Can automatically redact detected PII from text.
 
 ---
