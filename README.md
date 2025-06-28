@@ -22,6 +22,13 @@ The tool combines:
 
 You can process a single text string or a batch of texts. The main workflow is demonstrated in `main.ipynb`.
 
+
+## Walkthrough
+
+
+https://github.com/user-attachments/assets/9e068d33-3285-4a0b-92b7-13cbbedfd5d9
+
+
 ---
 
 ## Quick Start
