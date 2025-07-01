@@ -1,6 +1,13 @@
 # PIIT - Personal Information Identification Tool. 
 
 **PIIT** is an offline Python tool for detecting and redacting sensitive Personally Identifiable Information (PII) in text. It is designed for use in any data project. Quite useful for a first iteration to be used as a layer on top of sensitive data that must remain within an org's internal data ecosystem.
+
+
+## Walkthrough
+
+
+https://github.com/user-attachments/assets/9e068d33-3285-4a0b-92b7-13cbbedfd5d9
+
 ---
 
 ## Features
@@ -21,13 +28,6 @@ The tool combines:
 - **Custom logic** for scoring and flagging PII.
 
 You can process a single text string or a batch of texts. The main workflow is demonstrated in `main.ipynb`.
-
-
-## Walkthrough
-
-
-https://github.com/user-attachments/assets/9e068d33-3285-4a0b-92b7-13cbbedfd5d9
-
 
 ---
 
